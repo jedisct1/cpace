@@ -100,3 +100,4 @@ main(void)
 
 - This implementation uses the Ristretto255 group and SHA-512 as the hash function, so that it can trivially be ported to [wasm-crypto](https://github.com/jedisct1/wasm-crypto).
 - Client and server identifiers have a maximum size of 255 bytes.
+- A Rust version is available [here](https://github.com/jedisct1/rust-cpace).
