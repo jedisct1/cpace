@@ -4,7 +4,7 @@ A CPace implementation for libsodium 1.0.17+
 
 ## Blurb
 
-[CPace](https://tools.ietf.org/id/draft-haase-cpace-00.html) is a protocol for two parties that share a low-entropy secret (password) to derive a strong shared key without disclosing the secret to offline dictionary attacks.
+[CPace](https://tools.ietf.org/id/draft-haase-cpace-01.html) is a protocol for two parties that share a low-entropy secret (password) to derive a strong shared key without disclosing the secret to offline dictionary attacks.
 
 CPace is a balanced PAKE, meaning that both parties must know the low-entropy secret.
 
